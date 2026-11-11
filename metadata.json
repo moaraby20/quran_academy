@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية الإتقان القرآنية - إدارة الحصص والمستحقات",
+  "description": "تطبيق ويب متكامل لإدارة حصص ومستحقات أكاديمية تحفيظ قرآن، بتصميم دارك مود فخم ولوحة مؤشرات مالية وتقارير واتساب فورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
