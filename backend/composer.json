@@ -1,0 +1,17 @@
+{
+    "name": "mo.araby/dighady",
+    "autoload": {
+        "psr-4": {
+            "MoAraby\\Dighady\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "moaraby20",
+            "email": "moaraby.207@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
